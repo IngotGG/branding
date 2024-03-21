@@ -7,28 +7,28 @@ All branding included here is for use with Ingot, external use to reference Ingo
 
 Redistributing, reselling, or utilizing materials within this branding pack for your own or in representation of something or someone (ex. companies, profiles, etc.) without explicit permission from Starnova LLC is strictly disallowed.
 
+Official Mark (no background) - PNG format
+
+![mark](./export/Mark__web.png)
+
+Official Mark (background) - PNG format
+
+![mark-bg](./export/Mark%20BG__web.png)
+
 Official Logo (no background) - PNG format
 
-![logo](https://github.com/IngotGG/branding/blob/master/export/Bordered%20Mark.png?raw=true)
+![logo](./export/Logo__web.png)
 
 Official Logo (background) - PNG format
 
-![logo-bg](https://github.com/IngotGG/branding/blob/master/export/Border%20Mark%2BBG.png?raw=true)
+![logo-bg](./export/Logo%20BG__web.png)
 
-Official Banner (no background) - PNG format
+Official Bordered Mark (no background) - PNG Format
 
-![banner](https://github.com/IngotGG/branding/blob/master/export/Logo.png?raw=true)
+![bordered-mark](./export/Bordered%20Mark__web.png)
 
-Official Banner (background) - PNG format
+Official Bordered Mark (background) - PNG Format
 
-![banner-bg](https://github.com/IngotGG/branding/blob/master/export/Logo%2BBG.png?raw=true)
-
-Official Mark (no background) - PNG Format
-
-![mark](https://github.com/IngotGG/branding/blob/master/export/Mark.png?raw=true)
-
-Official Mark (background) - PNG Format
-
-![mark-bg](https://github.com/IngotGG/branding/blob/master/export/Mark%2BBG.png?raw=true)
+![bordered-mark-bg](./export/Bordered%20Mark-BG__web.png)
 
 © Copyright 2024 Starnova LLC
