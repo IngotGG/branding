@@ -27,15 +27,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="0.35545032"
-     inkscape:cx="-618.93318"
-     inkscape:cy="579.54652"
+     inkscape:zoom="0.50268266"
+     inkscape:cx="-328.23889"
+     inkscape:cy="547.06482"
      inkscape:window-width="1920"
      inkscape:window-height="1002"
      inkscape:window-x="3840"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer8"
      inkscape:export-bgcolor="#ffffff00"><inkscape:page
        x="0"
        y="0"
@@ -906,7 +906,7 @@
        inkscape:label="Background" /></g><g
      inkscape:groupmode="layer"
      id="layer8"
-     inkscape:label="Logo+BG"
+     inkscape:label="Logo-BG"
      inkscape:highlight-color="#d30aff"><image
        width="150"
        height="50"
@@ -1107,7 +1107,7 @@
            y="156.30055">ingot.gg</tspan></text></g></g><g
      inkscape:groupmode="layer"
      id="layer12"
-     inkscape:label="Padded Bordered Mark+BG"
+     inkscape:label="Padded Bordered Mark-BG"
      inkscape:highlight-color="#5ac970"><image
        width="75"
        height="75"
@@ -1206,7 +1206,7 @@
                inkscape:label="Top" /></g></g></g></g></g><g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="Bordered Mark+BG"
+     inkscape:label="Bordered Mark-BG"
      inkscape:highlight-color="#1cf100"><image
        width="50"
        height="50"
@@ -1485,7 +1485,7 @@
                inkscape:label="Top" /></g></g></g></g></g><g
      inkscape:groupmode="layer"
      id="layer10"
-     inkscape:label="Padded Mark+BG"
+     inkscape:label="Padded Mark-BG"
      inkscape:highlight-color="#c9905a"><image
        width="75"
        height="75.182137"
@@ -1579,7 +1579,7 @@
                inkscape:label="Top" /></g></g></g></g></g><g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Mark+BG"
+     inkscape:label="Mark-BG"
      inkscape:highlight-color="#ce6b00"><image
        width="50"
        height="50"
