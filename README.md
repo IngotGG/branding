@@ -13,7 +13,7 @@ Official Mark (no background) - PNG format
 
 Official Mark (background) - PNG format
 
-![mark-bg](./export/Mark%20BG__web.png)
+![mark-bg](./export/Mark-BG__web.png)
 
 Official Logo (no background) - PNG format
 
@@ -21,7 +21,7 @@ Official Logo (no background) - PNG format
 
 Official Logo (background) - PNG format
 
-![logo-bg](./export/Logo%20BG__web.png)
+![logo-bg](./export/Logo-BG__web.png)
 
 Official Bordered Mark (no background) - PNG Format
 
